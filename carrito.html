@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Todo Gusto</title>
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="icon" href="./img/logo.jpg">
+</head>
+<body>
+    <div class="navbar">
+        <nav class="nav">
+            <div>
+                <a href="index.html">
+                    <img src="./img/logo.jpg" alt="logo a todo gusto" class="img-logo">
+                </a>                
+            </div>
+            <div>
+                <ul>
+                    <li><a href="contacto.html">Contacto</a></li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="menu.html">Menu</a></li>
+                    <li><a href="carrito.html">Carrito</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    
+    <h1>Carrito</h1>
+    <div id="contenedor-carrito">
+
+        <p class="total"></p>
+    </div>
+
+    <div class="opciones">
+        <form 
+            action="https://formspree.io/f/xbllreve"
+            method="POST"
+            class="form-comprar"
+        >
+
+            <input class="buttom boton-comprar" type="submit" value="Comprar">
+        </form>
+        <button class="buttom" onclick="vaciarCarrito()">Vaciar Carrito</button>
+    </div>
+    
+
+
+    <script src="main.js"></script>
+</body>
+</html>

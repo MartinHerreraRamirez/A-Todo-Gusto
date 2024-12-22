@@ -1,0 +1,77 @@
+[
+    {
+        "nombre": "Lobster Thermidor",
+        "precio": 75.00,
+        "imagen": "./img/productos/lobster_thermidor.jpg"
+    },
+    {
+        "nombre": "Truffle Risotto",
+        "precio": 60.00,
+        "imagen": "./img/productos/truffle_risotto.jpg"
+    },
+    {
+        "nombre": "Filet Mignon",
+        "precio": 80.00,
+        "imagen": "./img/productos/filet_mignon.jpg"
+    },
+    {
+        "nombre": "Foie Gras",
+        "precio": 65.00,
+        "imagen": "./img/productos/foie_gras.jpg"
+    },
+    {
+        "nombre": "Wagyu Beef",
+        "precio": 120.00,
+        "imagen": "./img/productos/wagyu_beef.jpg"
+    },
+    {
+        "nombre": "Caviar Platter",
+        "precio": 150.00,
+        "imagen": "./img/productos/caviar_platter.jpg"
+    },
+    {
+        "nombre": "Duck Confit",
+        "precio": 55.00,
+        "imagen": "./img/productos/duck_confit.jpg"
+    },
+    {
+        "nombre": "Scallop Carpaccio",
+        "precio": 70.00,
+        "imagen": "./img/productos/scallop_carpaccio.jpg"
+    },
+    {
+        "nombre": "Sea Urchin Pasta",
+        "precio": 85.00,
+        "imagen": "./img/productos/sea_urchin_pasta.jpg"
+    },
+    {
+        "nombre": "Chilean Sea Bass",
+        "precio": 95.00,
+        "imagen": "./img/productos/chilean_sea_bass.jpg"
+    },
+    {
+        "nombre": "Peking Duck",
+        "precio": 90.00,
+        "imagen": "./img/productos/peking_duck.jpg"
+    },
+    {
+        "nombre": "Oyster Rockefeller",
+        "precio": 50.00,
+        "imagen": "./img/productos/oyster_rockefeller.jpg"
+    },
+    {
+        "nombre": "Black Cod Miso",
+        "precio": 85.00,
+        "imagen": "./img/productos/black_cod_miso.jpg"
+    },
+    {
+        "nombre": "Beef Wellington",
+        "precio": 95.00,
+        "imagen": "./img/productos/beef_wellington.jpg"
+    },
+    {
+        "nombre": "King Crab Legs",
+        "precio": 100.00,
+        "imagen": "./img/productos/king_crab_legs.jpg"
+    }
+]
